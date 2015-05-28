@@ -14,7 +14,7 @@ cabal-version:       >=1.10
 
 executable finnish-names
   main-is:             Main.hs
-  other-modules:       TagSoup.Sample
+  other-modules:       
   -- other-extensions:    
   build-depends:       base >=4.7 && <4.8, tagsoup, split, transformers
   -- hs-source-dirs:      
